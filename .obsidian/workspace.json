@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Process/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Process/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/README.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -178,8 +178,8 @@
   },
   "active": "40c737438e317918",
   "lastOpenFiles": [
-    "README.md",
     "Process/README.md",
+    "README.md",
     "process/README.md",
     "Process",
     "Welcome.md"
