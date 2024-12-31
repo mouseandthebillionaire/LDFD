@@ -34,6 +34,9 @@ Basic Mechanics:
 - If you cannot place at least 1 die you bust
 - Placing at least 1 die allows all the unplaced dice to be rerolled
 - Filling up a card completely returns those dice to your pool
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/SpotsCardsSketch.jpg" width="50%">
+
   
 ### Ideas
 - Actually pretty fun?
@@ -41,6 +44,9 @@ Basic Mechanics:
 - Could have card combos like milk and cookies
 - Could have card actions and other effects
 - Could give you additional dice
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ConveyorSketch.jpg" width="50%">
+
 
 ### Spots Card Distribution:
 - 1 die: 1 card
@@ -63,6 +69,7 @@ This gives us 53 cards as a starting place 
 
 Robot theme?!
 
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/CardWithDice.jpg" width="50%">
 
 ## 12/16/2024 - Actual Card Test
 
@@ -81,6 +88,8 @@ Q: What does a tie quota mean?
 - And how pairs/combos of robot cards might work (milk and cookies style)
 - Maybe make a printable quota tracker?
 
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/QuotaTrackerSketch.jpg" width="50%">
+
 ## 12/19/2024 - Pairs, Combos, and Card Abilities
 
 How should combos be distributed?
@@ -93,11 +102,29 @@ Ability Ideas:
 - Replace robots
 - Swap card order
 - Save a card from being burned (like a conveyor belt stop)
-  
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ConveyorSetup.jpg" width="50%">
 
 Maybe 1 die cards have abilities and are worth zero points?
 
 Or 1 die cards keep being worth 1 point but when scored remain in front like the loyal dog and their action can be used on a subsequent turn?
 
+
+## 12/31/2024 - Playtest Sesh
+
+Playtested day one of the game with quota types, pairs and single card abilities
+- 22 v. 16 
+- Pairs and single cards were collected by both players
+	- With matching and unmatched pairs
+- Not sure if the ability cards have to be ‘spent’ to be used
+	- Is it more of a valuable resource to be used sparingly?
+- Daily quota wasn’t in the lead for a type that either player had
+	- At the end of the three days if it is the wrong type probably the points go to no one?
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytest.png" width="50%">
+
+How should the round end?
+- Could have a STOP card that gets shuffled in to a certain portion of the deck per day
+	- Would probably have to vary depending on the number of people playing
 
 
