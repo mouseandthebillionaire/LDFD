@@ -128,3 +128,41 @@ How should the round end?
 	- Would probably have to vary depending on the number of people playing
 
 
+## 1/6/2025 - Multiplayer Conveyor Update
+
+What would it look like for the play to be more ‘simultaneous’ (whatever that means)
+- With each player taking a slot along the conveyor
+- Each section of the conveyor could have a handful of cards and whatever isn’t fixed, moves on to the next person down the line
+- With the player order swapping per day
+
+
+### Playtest!
+- It actually felt pretty good!
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestConveyorStart.png" width="50%">
+
+- Starting play with the player closes to the burn pile
+- Having sections to the conveyor with stuff moving down the line felt more conveyor belt-y
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestConveyorEnd.png" width="50%">
+
+- Adjusted the Swap & Shuffle to allow players to switch the position of 2 cards on the line (so long as one of them was in front of that player) 
+	- Also applies to the ‘End of Day’ card which was fun
+	- Could lead to some fun shenanigans
+- Round should automatically end when the End of Day card is burned or the conveyor cannot be fully refilled with bots while the End of Day card is on the line
+- Could have an ability to swap a bot in front of you with one from the burn pile 👀
+	- Maybe just have 1 or 2 of these in the whole deck though
+ 
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/QuotaEndOfGame.jpg" width="50%">
+
+
+### To Do:
+Create a player mat for each player’s section of the belt with:
+- Slots for the 3 cards currently on the belt
+- A section below that for bots they have fixed this turn
+- A pile for fixed bots from the entire round
+- Point tracker for tracking points between rounds
+- Cute styling like this is a mechanics desk 
+
+Add a zero to the quota tracker lol
+
