@@ -166,3 +166,41 @@ Create a player mat for each player’s section of the belt with:
 
 Add a zero to the quota tracker lol
 
+
+## 1/9/2025 - Player Mat Playtest
+
+Feels really nice with the conveyor player mats to delineate the play space
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/PlayerMatEmpty.jpg" width="30%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/PlayerMatCards.jpg" width="30%">
+
+Q: What if everyone rolled for their section of the conveyor simultaneously?
+
+<b>Pros</b>
+- Game goes faster
+- Fun chaos of everyone rolling dice simultaneously
+
+<b>Cons</b>
+- Less player investment for what other people are doing
+- Push your luck is usually combined with spectatorship
+
+Need to specify that the Swap action happens after the rolling phase
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/PlayerMatPlaytest.jpg" width="50%">
+
+Q: What if <i>only</i> the first person to clear their conveyor line gets a bonus?
+- Makes it more frantic
+- Even more incentive to push your luck and go for all 3
+- 5 dice instead of 4
+- Ended up being much less strategic
+- Fun and frantic but waaay more busts
+- Loses some of the original strategy
+
+Could be good to keep 4 dice and give a bonus to any/all player who complete their conveyor line completely 
+
+### To Do:
+- Think about asset styling 
+- Work on some concepts for non-standard dice
+
+
+
