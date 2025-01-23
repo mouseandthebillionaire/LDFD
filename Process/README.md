@@ -204,3 +204,23 @@ Could be good to keep 4 dice and give a bonus to any/all player who complete the
 
 
 
+## 1/23/2025 - Dice, Probability, Questions, Oh My!
+ 
+Q: What if the dice had non-uniform probability distributions?
+- Could there be a pool of dice you draft from
+- Different types of dice?
+- Robot types had different number preferences
+
+Q: Should tools be separated from the robot cards?
+- Could have a separate pile that is getting pulled from
+- Dice you place there do no refresh back to you during the round
+- Build up in a little desk tool box
+
+Q: How do we give the player more agency in their robot selection?
+- Double sided robot cards?!
+	- Each robot card could have more than one type
+- Simplify the Milk and Cookies pairs to 1 pair type
+
+### To Do:
+- Add multi color robot types to spreadsheet
+- Playtest separate tool cards
