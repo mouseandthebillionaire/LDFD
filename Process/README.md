@@ -224,3 +224,25 @@ Q: How do we give the player more agency in their robot selection?
 ### To Do:
 - Add multi color robot types to spreadsheet
 - Playtest separate tool cards
+
+
+
+## 1/27/2025 - Card Updates & Tools Implementation
+ 
+- Added a second color type to the cards in the spreadsheet
+- Updated the pairs to be simpler
+	- Added a new all or nothing pair
+
+### Playtest!
+- Conveyor mechanic is still enjoyable
+- EOD should probably not be swappable
+- Tool slot feels really good
+	- It’s fun to always have access to it
+- Still maybe need more incentive to clear your full line
+	- +1 point? Is that enough 
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestToolSlot.png" width="50%">
+
+### To Do:
+- Update Cards with second planned color
+- Playtest to see if the daily quota makes sense again
