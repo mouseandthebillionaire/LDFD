@@ -246,3 +246,32 @@ Q: How do we give the player more agency in their robot selection?
 ### To Do:
 - Update Cards with second planned color
 - Playtest to see if the daily quota makes sense again
+
+
+## 1/31/2025 - Tools & Dice
+
+### Playtest!
+M: 21 points - 5b, 1r
+Z: 23 points - 4y, 2r, 2g
+
+- We may want to be more specific with the placement of the ‘end of day’ card in the deck’
+- Paired cards probably shouldn’t have a color
+	- May need to add more 2 dice cards
+- Daily quota is still pretty close in numbers
+	- Could roll a quota die per round…
+	- Daily AND weekly quota?
+- That’s pretty clever die that allows you to take something someone else has rolled?
+
+- Maybe tools are separate from the cards?
+	- Tool die?
+		- Per round?
+		- Per turn? Up to a max of 3
+	- If tools stay as cards they could have different die requirements: 1s & 2s, <3, etc.
+
+- Could do something with the 1 die cards where having the most of them is worth points instead of them individually
+
+### To Do:
+- Think about tool dice options
+- Redistribute colors to the new set of cards
+	- And print them?
+
