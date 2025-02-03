@@ -252,6 +252,7 @@ Q: How do we give the player more agency in their robot selection?
 
 ### Playtest!
 M: 21 points - 5b, 1r
+
 Z: 23 points - 4y, 2r, 2g
 
 - We may want to be more specific with the placement of the ‘end of day’ card in the deck’
@@ -275,3 +276,22 @@ Z: 23 points - 4y, 2r, 2g
 - Redistribute colors to the new set of cards
 	- And print them?
 
+## 1/31/2025 - Tools & Dice
+
+- Updated the card distribution and reprinted some of them!
+
+### Playtest!
+- Distributed the EOD card into a set of 3 cards below ~18 cards
+	- 2 players x 3 cards x 3 rounds = 18
+- Rolling the tool die each turn is very fun
+- Having the single die cards back in the deck speeds the game back up and felt really good!
+
+M: 9 points - 1R, 1G
+- 3 singles
+
+Z: 15 points - 1R, 1G, 1Y
+- 5 singles
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestToolDice.png" width="50%">
+
+- Curious to play through more than 1 round and see how the single cards getting removed from the deck overtime feels
