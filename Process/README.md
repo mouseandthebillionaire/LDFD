@@ -276,7 +276,7 @@ Z: 23 points - 4y, 2r, 2g
 - Redistribute colors to the new set of cards
 	- And print them?
 
-## 1/31/2025 - Tools & Dice
+## 2/3/2025 - Card Reprint
 
 - Updated the card distribution and reprinted some of them!
 
@@ -295,3 +295,75 @@ Z: 15 points - 1R, 1G, 1Y
 <img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestToolDice.png" width="50%">
 
 - Curious to play through more than 1 round and see how the single cards getting removed from the deck overtime feels
+
+
+## 2/6/2025 - Review Playtest
+- Want to play 2 rounds of the game as is and see how the gameplay feels and the points are distributed
+
+### Playtest!
+#### Round 1
+
+Z: 10pt - 0R 0Y 1G 1B - 2 singles - 1 bonus
+
+M: 6pt - 0R 0Y 0G 0B - 2 singles - 1 bonus
+
+- Could be interesting if the singles AND the pairs stay out between rounds
+
+#### Round 2
+
+Z: 7pt - 3R 0Y 0G 0B - 1 singles - 0 bonus
+
+M: 10pt - 0R 0Y 0G 1B - 3 singles - 2 bonus
+
+#### Totals:
+
+Z: 17pt - 3 singles - 1 bonus - Quota Bonus
+
+M: 17pt - 5 singles - 3 bonus
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytest_2-6.png" width="50%">
+
+- Not as much choice for choosing robots by color or pair
+- Maybe reduce singles back down to 12 in the deck?
+
+## 2/10/2025 - Tool Dice Playtest
+- EOD card distributed into 3 cards below (# Players + 1) x 3 cards
+
+### Playtest!
+
+#### Round 1
+
+Z: 8pt - 0R 1Y 0G 0B - 1A & 2B	0 singles - 0 bonus
+
+M: 8pt - 2R 0Y 0G 1B - 0A & 0B	1 singles - 0 bonus
+
+- Wild tool die shouldn’t return dice during that turn to keep rerolling
+- When should points be scored for pairs and bonuses?
+
+#### Round 2
+
+Z: 11pt - 0R 2Y 0G 0B - 2A & 1B - 3 singles - 1 bonus
+
+M: 14pt - 0R 1Y 0G 0B - 0A & 1B - 0 singles - 0 bonus
+
+#### Totals:
+
+Z: 19pt - 3A & 3B - 3 singles - 1 bonus = 26pt + Quota Bonus + Singles Bonus
+
+M: 22pt - 0A & 1B - 1 singles - 0 bonus = 22pts
+
+- Shuffle feels good for player agency
+- Love the customized tool dice :)
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ToolDicePrototype.jpg" width="50%">
+
+- Additional conveyor spot not in front of a player was nice
+- Color on robots doesn’t feel as impactful
+	- Could be worth removing?
+- Keeping the pairs between rounds is nice
+- It might be nice to have something that ramps up each round to make the game have a more distinct progression
+	- Each round you add a die?
+	- Personal dice that have different distributions?
+	- Worth trying for next time
+
+
