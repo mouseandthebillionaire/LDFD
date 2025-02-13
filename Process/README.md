@@ -367,3 +367,24 @@ M: 22pt - 0A & 1B - 1 singles - 0 bonus = 22pts
 	- Worth trying for next time
 
 
+## 2/13/2025 - Types or No Types Playtest
+- What if there weren’t any color types on robots?
+
+### Playtest!
+- Seems like it mostly reduces the reason to shuffle cards around…
+
+#### Round 1
+
+Z: 9pt - 0A & 0B - 1 singles - 0 bonus
+
+M: 10pt - 0A & 1B - 1 singles - 0 bonus
+
+- Maybe instead of one of the rerolls, there should be a tool that saves you from busting if you roll incorrectly and allows you to walk away with what you’ve already fixed
+- Color types are probably worth keeping
+	- What if EVERY card had a color instead
+
+#### Specialty Dice!
+- The idea being that each round you specialize in a certain way of fixing robots, so you either replace or are adding specialty dice to your rolling pool
+- Need to brainstorm more specialty dice here
+	- Oops all 4s where there are 5 sides of 4 and 1 side of nothing XD
+- Try out some of these mixed in with normal dice next time
