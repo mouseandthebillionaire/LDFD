@@ -388,3 +388,25 @@ M: 10pt - 0A & 1B - 1 singles - 0 bonus
 - Need to brainstorm more specialty dice here
 	- Oops all 4s where there are 5 sides of 4 and 1 side of nothing XD
 - Try out some of these mixed in with normal dice next time
+
+
+## 2/18/2025 - Specialty Dice Playtest Pt. 1
+- Let’s see how 4 normal dice + 1 specialty die feels in a round
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/SpecialtyDicePrototype.jpg" width="50%">
+
+### Playtest!
+- Quite fast with more stuff being cleared (though it has a round 1 distribution of 1s cards)
+
+#### Round 1
+
+Z: 8pt - 0A & 1B - 1 singles - 0 bonus
+
+M: 16pt - 0A & 0B - 2 singles - 2 bonus
+
+4R, 2Y, 1G, 1B
+
+- Need to playtest more for specialty dice distribution over each round
+	- Round 1: 4 normal dice
+	- Round 2: 4 normal dice + 1 specialty die
+	- Round 3: 4 normal dice + 2 specialty dice?
