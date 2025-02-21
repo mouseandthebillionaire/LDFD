@@ -375,9 +375,9 @@ M: 22pt - 0A & 1B - 1 singles - 0 bonus = 22pts
 
 #### Round 1
 
-Z: 9pt - 0A & 0B - 1 singles - 0 bonus
+Z: 9pt | 0A & 0B | 1 singles | 0 bonus
 
-M: 10pt - 0A & 1B - 1 singles - 0 bonus
+M: 10pt | 0A & 1B | 1 singles | 0 bonus
 
 - Maybe instead of one of the rerolls, there should be a tool that saves you from busting if you roll incorrectly and allows you to walk away with what you’ve already fixed
 - Color types are probably worth keeping
@@ -400,9 +400,9 @@ M: 10pt - 0A & 1B - 1 singles - 0 bonus
 
 #### Round 1
 
-Z: 8pt - 0A & 1B - 1 singles - 0 bonus
+Z: 8pt | 0A & 1B | 1 singles | 0 bonus
 
-M: 16pt - 0A & 0B - 2 singles - 2 bonus
+M: 16pt | 0A & 0B | 2 singles | 2 bonus
 
 4R, 2Y, 1G, 1B
 
@@ -410,3 +410,42 @@ M: 16pt - 0A & 0B - 2 singles - 2 bonus
 	- Round 1: 4 normal dice
 	- Round 2: 4 normal dice + 1 specialty die
 	- Round 3: 4 normal dice + 2 specialty dice?
+
+
+
+## 2/21/2025 - Specialty Dice Playtest Pt. 2
+- Let’s see how 4 normal dice + 1 specialty die and then + 2 specialty dice feel
+
+### Playtest!
+- 6 pointer might be too powerful… needs 4 dice?
+
+#### Round “2”
+
+Z: 10pt | 0A & 0B | 2 singles | 1 bonus
+
+M: 10pt | 0A & 0B | 1 singles | 0 bonus
+
+3R, 1Y, 1G, 1B
+
+#### Round “3”
+
+Z: 12pt | 0A & 0B | 4 singles | 2 bonus
+
+M: 17pt | 1A & 2B | 0 singles | 1 bonus
+
+3R, 2Y, 2G, 1B
+
+#### Totals
+
+Z: 22pt + singles + quota + 3 bonus = 33pt 
+
+M: 27pt	+ 1 pairs + 1 bonus = 30pt
+
+- Maybe singles cards have different #s on the back of the cards you can choose between
+- Almost every card should have 2 color options
+
+### To Do:
+- Add color to the single die cards
+- Make the additional specialty dice
+- Playtest with drafting specialty dice from the person with the lowest points up
+
