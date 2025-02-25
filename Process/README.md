@@ -449,3 +449,35 @@ M: 27pt	+ 1 pairs + 1 bonus = 30pt
 - Make the additional specialty dice
 - Playtest with drafting specialty dice from the person with the lowest points up
 
+
+## 2/24/2025 - Double Sided Singles
+- Adding a second side to the single die cards
+
+### Playtest!
+
+#### Round “2”
+Z: 9pt | 0A & 0B & 1Z | 2 singles | 2 bonus
+M: 4pt | 1A & 0B & 0Z | 2 singles | 1 bonus
+
+3R, 1Y, 2G, 3B
+
+- Double sided cards feel a bit annoying to swap since people need to look at both sides
+
+#### Round “3”
+Z: 6pt | 1A & 1B | 2 singles | 2 bonus
+
+M: 14pt | 1A & 0B | 0 singles | 2 bonus
+
+3R, 3Y, 2G, 2B
+
+#### Totals
+Z: 19pt + 1 pairs + singles = 24pt 
+
+M: 21pt + quota = 27pt
+
+6R, 4Y, 2G, 2B
+
+- Cleared ⅞ lines…
+- Should there be 4 die cards
+
+
