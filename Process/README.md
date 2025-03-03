@@ -481,3 +481,42 @@ M: 21pt + quota = 27pt
 - Should there be 4 die cards
 
 
+## 2/24/2025 - 3 Dice?
+- What if we dropped down to only 3 normal dice and added specialty dice as we went
+
+### Playtest!
+- Feels REAL tough with only 3 dice
+- There is a distinct disadvantage to the player who starts the first round - they get more time with the end of day card
+
+#### Round 1
+
+Z: 3pt | 0A & 0B | 2 singles | 1 clears
+
+M: 12pt | 1A & 0B | 0 singles | 0 clears
+
+4R, 1Y, 0G, 1B
+
+- Could be good to replace 6 of the 1 die cards with 4 dice cards 👀
+- And go back to rolling 4 dice to start
+
+#### Round 2
+
+Z: 10pt	| 0A & 0B | 2 singles | 1 clears
+
+M: 6pt | 1A & 0B | 1 singles| 0 clears
+
+4R, 3Y, 2G, 1B
+
+- Maybe there are more types of tools?
+
+
+## 3/3/2025 - Card Brainstorm
+
+- New more colorful specialty dice!
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/SpecialtyDiceColorfulPrototype.jpg" width="50%">
+
+### Brainstorm ideas:
+- Basically all cards should just have 1 color type
+- Maybe at the start of your turn you can always burn 1 of your cards and replace it blindly from the top of the deck
+- Instead of assigning each player a quota color, each day you draw a few quota requests that require certain cards to be fixed for a small bonus
