@@ -520,3 +520,30 @@ M: 6pt | 1A & 0B | 1 singles| 0 clears
 - Basically all cards should just have 1 color type
 - Maybe at the start of your turn you can always burn 1 of your cards and replace it blindly from the top of the deck
 - Instead of assigning each player a quota color, each day you draw a few quota requests that require certain cards to be fixed for a small bonus
+
+
+## 3/6/2025 - 4 Dice Card Playtest
+- What if the Quota Requests were like, 1 Red & 2 Yellow 
+- Could be interesting to try out having the option to burn a card at the start of your turn
+- Trying out some robot visuals:
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/RobotSingleDieSketch.jpg" width="25%">
+
+### Playtest!
+- Tool idea: conveyor shift where all the cards move 1 slot to the right or left
+- Burning each round makes things move a bit faster if pulling from the regular deck
+
+#### Round 1
+Z: 8pt | 0A & 0B | 1 singles | 0 clears
+
+M: 7pt | 0A & 2B | 1 singles | 1 clears
+
+0R, 4Y, 1G, 2B
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytest4Dice.jpg" width="50%">
+
+
+- The conveyor shouldn't clear between rounds
+- Burn & swap ability could swap in the EOD which could be bad for balance… 
+	- Additional pile of robot cards to swap in for this?
+
