@@ -547,3 +547,41 @@ M: 7pt | 0A & 2B | 1 singles | 1 clears
 - Burn & swap ability could swap in the EOD which could be bad for balance… 
 	- Additional pile of robot cards to swap in for this?
 
+
+
+## 3/14/2025 - Quota Requests Revamped
+
+- When can you grab a quota? - End of turn
+- Can you fill multiple in one turn? - Yes
+
+### Quota Types:
+- Color types (R, R, Y)
+- Die Types (1, 1, 1)
+- Tool Dice? (Shuffle Shuffle)
+
+- When you burn cards at the start of your turn, where does that get replenished from? 
+- Might make sense if there is a separate robot deck that isn’t managing the round length
+
+### Tool Die Ideas:
+- Flip tool: you can flip a die option 180 to the other side
+- Bust saver: you can stop a bust from happening and walk away
+- Conveyor crank: shifts the entire conveyor one to the right or left
+
+## 3/17/2025 - Quota Card Playtest
+- Made some quota cards physically to play with
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/QuotaCardsPlaytest.jpg" width="50%">
+
+### Playtest:
+- Love having the macro goal of the quota cards to be looking at/building towards
+- Could be useful to have card info at the top of the robot cards so you can stack them slightly offset and see what quotas you are close to
+- Should fixed robots count towards quotas on subsequent days?
+- Should everything be scored at the end?
+- Scoring cards could be a fun way to track everything throughout the game 🤔
+
+#### Round 1
+Z: 10pt | 1 quota | 1A & 0B | 1 singles | 0 clears
+
+M: 9pt | 0 quota | 1A & 1B | 1 singles | 1 clears
+
+- Need to playtest through a full game to start to answer the scoring questions
