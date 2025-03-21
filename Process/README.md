@@ -585,3 +585,36 @@ Z: 10pt | 1 quota | 1A & 0B | 1 singles | 0 clears
 M: 9pt | 0 quota | 1A & 1B | 1 singles | 1 clears
 
 - Need to playtest through a full game to start to answer the scoring questions
+
+
+## 3/19/2025 - Full Game Playtest
+
+Let’s play through 3 full rounds of the game and see how it feels:
+
+- What should the order of tool dice, burning and swapping be?
+- Could the 2, 2, 2 quota be filled by 2 cards where one of them has two 2s
+- This is definitely a better version of the quotas (compared to just amount of color throughout the game)
+- Once you have 3 tool dice in front of you the next turn you should be able to reroll one of yours
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ThreeRoundFullPlaytest.jpg" width="50%">
+
+### End of Game
+Z: 72pt: 5 quota | 2A 1B 2Z | 5 singles | 5 clears
+
+I: 58pt: 5 quota | 4A 3B 0Z | 4 singles | 4 clears
+
+- Game felt too long
+- Best part was definitely the specialty dice
+- Quotas were kind of gathered passively, just by getting robots over time
+- Clearing the board is VERY satisfying
+- Could have the EOD at a set number of rounds or move down the conveyor each round
+
+
+## 3/21/2025 - Simplifying the Conveyor
+
+How would the conveyor feel if it was simplified down to just like 4 or 6 slots that were shared
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ConveyorV2.jpg" width="50%">
+
+- What if the rounds were limited to just like 1 or 2 turns per?
+	- So the whole game took place over the course of 6 rounds
