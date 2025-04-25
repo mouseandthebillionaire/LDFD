@@ -618,3 +618,106 @@ How would the conveyor feel if it was simplified down to just like 4 or 6 slots 
 
 - What if the rounds were limited to just like 1 or 2 turns per?
 	- So the whole game took place over the course of 6 rounds
+
+
+## 3/24/2025 - 6 Round Playtest
+
+- Definitely feels more concise with just the 2 turns per round
+- Might need the quotas to be more difficult to get
+	- Could include 4 robot quotas?
+- No more As & Bs
+	- It just hasn’t panned out to be fun or impactful
+
+### End of game scores:
+Z:  24 pts | 4 quotas | 1 clear | 1 A & 1 B | 3 singles
+
+M: 37 pts | 4 quotas | 2 clears | 1A & 0B | 3 singles
+
+
+## 4/7/2025 - Concept Meeting
+
+- Ordered custom dice with icons on each of the faces instead of numbers
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/CustomPrototypedDice.jpg" width="50%">
+
+- Now need to get the cards updated…
+- Could be fun to have the different types of cards have different theming
+	- Singles are little junk fixes
+	- 2s could be some sort of wild type or blueprint?
+
+
+
+## 4/11/2025 - 2s As Wild Playtest
+
+- What if 2s didn’t have one of the 4 quota colors but instead required two of them to fulfil a quota color request
+- Also singles have no color
+
+**insert Matt and Zayna playtesting this idea*
+
+- Seemed good, like the long term play was more important 
+- Will be interesting to combine with further game adjustments
+
+
+## 4/14/2025 - Tool Die Ideation
+
+- What if the shuffle tool was pulling from the trash instead
+- Switch the wild tool out for a duplication tool
+	- Where you can use it as though you rolled multiple of something and it stands in for a placeable die 1 time
+- Claw tool where you can move or? remove a placed die
+
+So instead the new distribution looks like:
+
+1. Reroll
+2. Reroll
+3. Trash Swap
+4. Bust Saver
+5. Duplicator
+6. Claw
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/UpdatedToolDice.jpg" width="50%">
+
+
+## 4/22/2025 - New Card Playtest
+
+- Not playing with specialty dice, just 3 rounds of having the starting standard 4
+
+**insert Matt and Zayna playtesting this idea*
+
+- Icons were nice to have on cards!
+- Question about the dupe die -> can it also save you from a bust?
+	- Probably not, since it can only be used after placing a die you’ve just rolled
+- Having the back up of 2 gray cards to fill quotas was good to make them not impossible to get
+- The new claw and dupe die did some fun logic with placing stuff
+- Didn’t get to see the trash or bust save come into play this game
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/CardsWithIcons.jpg" width="50%">
+
+### End of game scores:
+Z: 22 pts | 1 quota | singles bonus
+
+M: 21 pts | 1 quota | 1 clear bonus
+
+### To Dos:
+- Add 2 card quotas (and maybe some 4s?)
+- Make custom specialty dice
+
+## 4/24/2025 - All Custom Icons Playtest
+
+- Trashcan tool die is pretty fun, allows for some control over what you have been dealt
+- Should quotas devalue over time?
+	- Like the longer it has been waiting to be filled the less it is worth? 
+	- May just over complicate things…
+- Choosing specialty dice feels more confusing the second time, you’re trying to balance a mixture of the two and it feels sort of like I don’t know how to make a good decision
+- Maybe extra unused tool dice at the end of the game get you +1 point per die
+	- (Just in case you couldn’t use the tool or didn’t want to)
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/DupeToolDice.jpg" width="50%">
+
+### End of game scores:
+M: 48 pts (3 quotas + 2 clears + singles bonus)
+
+Z: 40 pts (3 quotas)
+
+- The game still feels a little long… 
+- Maybe at the end of the day it’s just 2 days of 2 rounds and then 1 final bonanza round with something wild or crazy
+
