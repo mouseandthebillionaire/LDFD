@@ -35,7 +35,7 @@ Basic Mechanics:
 - Placing at least 1 die allows all the unplaced dice to be rerolled
 - Filling up a card completely returns those dice to your pool
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/SpotsCardsSketch.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/12-9-24_1.jpg" width="50%">
 
   
 ### Ideas
@@ -45,7 +45,7 @@ Basic Mechanics:
 - Could have card actions and other effects
 - Could give you additional dice
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ConveyorSketch.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/12-9-24_2.jpg" width="50%">
 
 
 ### Spots Card Distribution:
@@ -69,7 +69,7 @@ This gives us 53 cards as a starting place 
 
 Robot theme?!
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/CardWithDice.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/12_12_24_1.jpg" width="50%">
 
 ## 12/16/2024 - Actual Card Test
 
@@ -88,7 +88,7 @@ Q: What does a tie quota mean?
 - And how pairs/combos of robot cards might work (milk and cookies style)
 - Maybe make a printable quota tracker?
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/QuotaTrackerSketch.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/12-16-24_1.jpg" width="50%">
 
 ## 12/19/2024 - Pairs, Combos, and Card Abilities
 
@@ -103,7 +103,7 @@ Ability Ideas:
 - Swap card order
 - Save a card from being burned (like a conveyor belt stop)
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ConveyorSetup.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/12-19-24_1.jpg" width="50%">
 
 Maybe 1 die cards have abilities and are worth zero points?
 
@@ -121,7 +121,7 @@ Playtested day one of the game with quota types, pairs and single card abilities
 - Daily quota wasn’t in the lead for a type that either player had
 	- At the end of the three days if it is the wrong type probably the points go to no one?
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytest.png" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/12-31-25_1.png" width="50%">
 
 How should the round end?
 - Could have a STOP card that gets shuffled in to a certain portion of the deck per day
@@ -139,12 +139,12 @@ What would it look like for the play to be more ‘simultaneous’ (whatever tha
 ### Playtest!
 - It actually felt pretty good!
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestConveyorStart.png" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/1-6-25_1.png" width="50%">
 
 - Starting play with the player closes to the burn pile
 - Having sections to the conveyor with stuff moving down the line felt more conveyor belt-y
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestConveyorEnd.png" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/1-6-25_2.png" width="50%">
 
 - Adjusted the Swap & Shuffle to allow players to switch the position of 2 cards on the line (so long as one of them was in front of that player) 
 	- Also applies to the ‘End of Day’ card which was fun
@@ -153,7 +153,7 @@ What would it look like for the play to be more ‘simultaneous’ (whatever tha
 - Could have an ability to swap a bot in front of you with one from the burn pile 👀
 	- Maybe just have 1 or 2 of these in the whole deck though
  
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/QuotaEndOfGame.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/1-6-25_3.jpg" width="50%">
 
 
 ### To Do:
@@ -171,8 +171,8 @@ Add a zero to the quota tracker lol
 
 Feels really nice with the conveyor player mats to delineate the play space
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/PlayerMatEmpty.jpg" width="30%">
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/PlayerMatCards.jpg" width="30%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/1-9-25_1.jpg" width="30%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/1-9-25_2.jpg" width="30%">
 
 Q: What if everyone rolled for their section of the conveyor simultaneously?
 
@@ -186,7 +186,7 @@ Q: What if everyone rolled for their section of the conveyor simultaneously?
 
 Need to specify that the Swap action happens after the rolling phase
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/PlayerMatPlaytest.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/1-9-25_3.jpg" width="50%">
 
 Q: What if <i>only</i> the first person to clear their conveyor line gets a bonus?
 - Makes it more frantic
@@ -241,7 +241,7 @@ Q: How do we give the player more agency in their robot selection?
 - Still maybe need more incentive to clear your full line
 	- +1 point? Is that enough 
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestToolSlot.png" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/1-27-25_1.png" width="50%">
 
 ### To Do:
 - Update Cards with second planned color
@@ -292,7 +292,7 @@ M: 9 points - 1R, 1G
 Z: 15 points - 1R, 1G, 1Y
 - 5 singles
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytestToolDice.png" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/2-3-25_1.png" width="50%">
 
 - Curious to play through more than 1 round and see how the single cards getting removed from the deck overtime feels
 
@@ -321,7 +321,7 @@ Z: 17pt - 3 singles - 1 bonus - Quota Bonus
 
 M: 17pt - 5 singles - 3 bonus
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytest_2-6.png" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/2-6-25_1.png" width="50%">
 
 - Not as much choice for choosing robots by color or pair
 - Maybe reduce singles back down to 12 in the deck?
@@ -355,7 +355,7 @@ M: 22pt - 0A & 1B - 1 singles - 0 bonus = 22pts
 - Shuffle feels good for player agency
 - Love the customized tool dice :)
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ToolDicePrototype.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/2-10-25_1.jpg" width="50%">
 
 - Additional conveyor spot not in front of a player was nice
 - Color on robots doesn’t feel as impactful
@@ -393,7 +393,7 @@ M: 10pt | 0A & 1B | 1 singles | 0 bonus
 ## 2/18/2025 - Specialty Dice Playtest Pt. 1
 - Let’s see how 4 normal dice + 1 specialty die feels in a round
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/SpecialtyDicePrototype.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/2-18-25_1.jpg" width="50%">
 
 ### Playtest!
 - Quite fast with more stuff being cleared (though it has a round 1 distribution of 1s cards)
@@ -514,7 +514,7 @@ M: 6pt | 1A & 0B | 1 singles| 0 clears
 
 - New more colorful specialty dice!
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/SpecialtyDiceColorfulPrototype.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/3-3-25_1.jpg" width="50%">
 
 ### Brainstorm ideas:
 - Basically all cards should just have 1 color type
@@ -527,7 +527,7 @@ M: 6pt | 1A & 0B | 1 singles| 0 clears
 - Could be interesting to try out having the option to burn a card at the start of your turn
 - Trying out some robot visuals:
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/RobotSingleDieSketch.jpg" width="25%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/3-6-25_1.jpg" width="25%">
 
 ### Playtest!
 - Tool idea: conveyor shift where all the cards move 1 slot to the right or left
@@ -540,7 +540,7 @@ M: 7pt | 0A & 2B | 1 singles | 1 clears
 
 0R, 4Y, 1G, 2B
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ZoomPlaytest4Dice.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/3-6-25_2.jpg" width="50%">
 
 
 - The conveyor shouldn't clear between rounds
@@ -570,7 +570,7 @@ M: 7pt | 0A & 2B | 1 singles | 1 clears
 ## 3/17/2025 - Quota Card Playtest
 - Made some quota cards physically to play with
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/QuotaCardsPlaytest.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/3-17-25_1.jpg" width="50%">
 
 ### Playtest:
 - Love having the macro goal of the quota cards to be looking at/building towards
@@ -596,7 +596,7 @@ Let’s play through 3 full rounds of the game and see how it feels:
 - This is definitely a better version of the quotas (compared to just amount of color throughout the game)
 - Once you have 3 tool dice in front of you the next turn you should be able to reroll one of yours
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ThreeRoundFullPlaytest.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/3-19-25_1.jpg" width="50%">
 
 ### End of Game
 Z: 72pt: 5 quota | 2A 1B 2Z | 5 singles | 5 clears
@@ -614,7 +614,7 @@ I: 58pt: 5 quota | 4A 3B 0Z | 4 singles | 4 clears
 
 How would the conveyor feel if it was simplified down to just like 4 or 6 slots that were shared
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/ConveyorV2.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/3-21-25_1.jpg" width="50%">
 
 - What if the rounds were limited to just like 1 or 2 turns per?
 	- So the whole game took place over the course of 6 rounds
@@ -638,7 +638,7 @@ M: 37 pts | 4 quotas | 2 clears | 1A & 0B | 3 singles
 
 - Ordered custom dice with icons on each of the faces instead of numbers
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/CustomPrototypedDice.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/4-7-25_1.jpg" width="50%">
 
 - Now need to get the cards updated…
 - Could be fun to have the different types of cards have different theming
@@ -674,7 +674,7 @@ So instead the new distribution looks like:
 5. Duplicator
 6. Claw
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/UpdatedToolDice.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/4-14-25_1.jpg" width="50%">
 
 
 ## 4/22/2025 - New Card Playtest
@@ -690,7 +690,7 @@ So instead the new distribution looks like:
 - The new claw and dupe die did some fun logic with placing stuff
 - Didn’t get to see the trash or bust save come into play this game
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/CardsWithIcons.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/4-22-25_1.jpg" width="50%">
 
 ### End of game scores:
 Z: 22 pts | 1 quota | singles bonus
@@ -711,7 +711,7 @@ M: 21 pts | 1 quota | 1 clear bonus
 - Maybe extra unused tool dice at the end of the game get you +1 point per die
 	- (Just in case you couldn’t use the tool or didn’t want to)
 
-<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/DupeToolDice.jpg" width="50%">
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/4-24-25_1.jpg" width="50%">
 
 ### End of game scores:
 M: 48 pts (3 quotas + 2 clears + singles bonus)
