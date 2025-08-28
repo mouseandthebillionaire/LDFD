@@ -721,3 +721,149 @@ Z: 40 pts (3 quotas)
 - The game still feels a little long… 
 - Maybe at the end of the day it’s just 2 days of 2 rounds and then 1 final bonanza round with something wild or crazy
 
+
+## 4/25/2025 - 2 Days Playtest
+- What if it was just 2 days of 2 rounds:
+
+### End of game scores:
+Z: 19 pts (1x 3pt quota + 1x clear bonus)
+
+M: 22 pts (1x 2pt quota)
+
+- Tied with 1 single each
+- Feels like it would be nice if the game culminated in a final round…
+- Framing the game as a work week could be fun like M-F
+	- Should distribute the additional mechanics throughout the week
+		- M: Start
+		- Tue: +1 quota
+		- W: + Specialty Dice
+		- Th: +1 quota
+		- F: TGIF?
+
+
+## 4/28/2025 - Work Week Playtest
+- Bust save probably shouldn’t allow you to reroll, just end your turn and keep your bots
+- Maybe specialty dice are given randomly? (instead of choosing)
+
+I: 37 pts + Singles Bonus (3 quotas)
+
+Z: 26 pts (2 quotas)
+
+- Game length felt pretty good
+- 4 Quotas out at a time was probably too many
+- Specialty Dice should also probably all be 50/50s
+- Could probably reduce the points on cards down by 1
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/4-28-25_2.jpg" width="45%">  <img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/4-28-25_1.jpg" width="25%">
+
+
+## 5/2/2025 - Ideation
+- Add a card to the conveyor as a day modification?
+- Multiple conveyor belts??
+	- Clearing any 1 gets you the clear bonus
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/5-2-25_1.jpg" width="50%">
+
+Q: What if it was Dorf-ified
+- Progression that unlocks different work week mechanics
+	- Quotas
+	- Specialty Dice
+	- Tool Dice
+- Training Week could be just like 3 days
+- Week 1 introduces quotas
+- Week 2 introduces specialty dice
+- Week 3 ?
+
+
+## 5/5/2025 - Playtest
+- Additional Quota on Day 2 feels a little odd
+- Trying it out with 3 cards
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/5-5-25_1.jpg" width="50%">
+
+Z: 25 pts (2 quotas) + singles bonus (1 per) = 27 pts
+
+M: 33 pts (3 quotas) + clear bonus (1) = 34 pts
+
+- Liked each day giving you something new
+- Friday round would be fun if shorter
+	- Could be fun if it was a broken conveyor that chucks your bots off the end
+	- Or against a timer?
+- Could explore an either or face of the dice
+
+
+## 5/8/2025 - Quick Check In
+- Playtest with the 1s and 2s deck separate from a 3s deck
+	- Rounds are real fast
+ 	- Chance of busting is higher
+- Should playtest with additional conveyor belts
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/5-8-25_1.jpg" width="50%">
+
+
+## 5/12/2025 - Playtest
+- 1s and 2s deck -> Round 1&2
+- 2s & 3s deck -> Round 3&4
+- 4s deck -> Round 5
+	- Doesn’t really work since it’s too hard to get your die back off the cards
+- Try multi-belt playtest
+- Maybe also shuffling into the deck?
+
+## 5/29/2025 - Playtest & Rules Review
+- Tried the multiple conveyor belts with 3 slots for 1s & 2s, 2 slots for 2s & 3s and 1 slot for 4s
+	 - Maybe a tad long/overwhelming?
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/5-29-25_1.jpg" width="50%">
+
+- What if every time you rolled the conveyor moves?
+- Still need to make all the possible combos of specialty dice 50/50s
+
+
+## 6/2/2025 - Horizontal Playtest
+- Tried adding conveyor lines down into one horizontal belt
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/6-2-25_1.jpg" width="50%">
+
+M: 26 pts + 5 quotas + Singles Bonus
+
+Z: 26 pts + 6 quotas + Clear Bonus
+
+- Liked this a lot
+- Having the 1s and 2s deck and then the 3s and then the 4s was nice
+- Might be long for a 4 player game?
+- Friday speed round was actually kind of fun?
+- Need to test this more
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/6-2-25_2.jpg" width="50%">
+
+
+## 6/5/2025 - Friday Bonanza Playtest
+- Robots acquired:
+	- 2/2/3
+	- 3/3
+	- 3/3/1
+	- 2/3/3/4
+- Actually pretty fun/addicting
+
+## 6/10/2025 - 3 Player Playtest
+- Game Name Ideas:
+	- Rollbots
+	- Roll & Repair
+
+New work week schedule:
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/6-10-25_1.jpg" width="50%">
+
+**Playtest Thoughts**
+- Quotas should probably be fixed and start at day 1 (Weekly Quotas)
+	- Should the # of players = # of quotas?
+
+AJ: 32 pts (2 quotas + 2 clears)
+
+I: 34 pts (1 quota + 2 clears) + shared single bonus
+
+Z: 38 pts (2 quotas + 1 clear) + shared single bonus
+
+<img src="https://github.com/mouseandthebillionaire/LDFD/blob/main/Process/Media/6-10-25_2.jpg" width="50%">
+
+
